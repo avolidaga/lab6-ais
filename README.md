@@ -1,6 +1,6 @@
 ## Лабораторная работа № 6: Деревья решений 
 
-[тык](https://github.com/avolidaga/lab6-ais)
+[обратно на отчетик](https://github.com/avolidaga/ITMO/tree/main/3-course/Artificial%20Intelligence%20Systems)
 
 
 Задание
